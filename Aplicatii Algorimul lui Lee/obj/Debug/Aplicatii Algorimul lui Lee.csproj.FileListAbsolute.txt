@@ -1,0 +1,23 @@
+D:\ATESTAT\Aplicatii Algorimul lui Lee\bin\Debug\Aplicatii Algorimul lui Lee.exe.config
+D:\ATESTAT\Aplicatii Algorimul lui Lee\bin\Debug\Aplicatii Algorimul lui Lee.exe
+D:\ATESTAT\Aplicatii Algorimul lui Lee\bin\Debug\Aplicatii Algorimul lui Lee.pdb
+D:\ATESTAT\Aplicatii Algorimul lui Lee\obj\Debug\Aplicatii_Algorimul_lui_Lee.Form1.resources
+D:\ATESTAT\Aplicatii Algorimul lui Lee\obj\Debug\Aplicatii_Algorimul_lui_Lee.Properties.Resources.resources
+D:\ATESTAT\Aplicatii Algorimul lui Lee\obj\Debug\Aplicatii Algorimul lui Lee.csproj.GenerateResource.cache
+D:\ATESTAT\Aplicatii Algorimul lui Lee\obj\Debug\Aplicatii Algorimul lui Lee.csproj.CoreCompileInputs.cache
+D:\ATESTAT\Aplicatii Algorimul lui Lee\obj\Debug\Aplicatii Algorimul lui Lee.exe
+D:\ATESTAT\Aplicatii Algorimul lui Lee\obj\Debug\Aplicatii Algorimul lui Lee.pdb
+D:\ATESTAT\Aplicatii Algorimul lui Lee\obj\Debug\Aplicatii_Algorimul_lui_Lee.Form2.resources
+D:\ATESTAT\Aplicatii Algorimul lui Lee\obj\Debug\Aplicatii Algorimul lui Lee.csproj.AssemblyReference.cache
+D:\ATESTAT\Aplicatii Algorimul lui Lee\obj\Debug\Aplicatii Algorimul lui Lee.csproj.SuggestedBindingRedirects.cache
+D:\ATESTAT\Aplicatii Algorimul lui Lee\obj\Debug\Aplicatii_Algorimul_lui_Lee.Form3.resources
+D:\ATESTAT\Aplicatii Algorimul lui Lee\obj\Debug\Aplicatii_Algorimul_lui_Lee.Form4.resources
+D:\ATESTAT\Aplicatii Algorimul lui Lee\obj\Debug\Aplicatii_Algorimul_lui_Lee.Form5.resources
+D:\ATESTAT\Aplicatii Algorimul lui Lee\obj\Debug\Aplicatii_Algorimul_lui_Lee.Account.resources
+D:\ATESTAT\Aplicatii Algorimul lui Lee\obj\Debug\Aplicatii_Algorimul_lui_Lee.Pbinfo.resources
+D:\ATESTAT\Aplicatii Algorimul lui Lee\bin\Debug\Interop.WMPLib.dll
+D:\ATESTAT\Aplicatii Algorimul lui Lee\bin\Debug\AxInterop.WMPLib.dll
+D:\ATESTAT\Aplicatii Algorimul lui Lee\obj\Debug\Interop.WMPLib.dll
+D:\ATESTAT\Aplicatii Algorimul lui Lee\obj\Debug\AxInterop.WMPLib.dll
+D:\ATESTAT\Aplicatii Algorimul lui Lee\obj\Debug\Aplicatii Algorimul lui Lee.csproj.ResolveComReference.cache
+D:\ATESTAT\Aplicatii Algorimul lui Lee\obj\Debug\Aplicatii_Algorimul_lui_Lee.video.resources
