@@ -7,7 +7,7 @@ The app is designed to teach Lee's algorithm, but it can be used to teach variou
 ## Table of Contents
 
 - [Features](#features)
-- [Installation](#installation)
+- [Technologies](#technologies)
 
 ## Features
 
